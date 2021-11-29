@@ -1,0 +1,26 @@
+﻿name,link,totalStar,fork,language,description
+freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,335865,27368,JavaScript,freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+learning_mind_map,https://github.com/0voice/learning_mind_map,592,70,unknown,2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等
+free-programming-books,https://github.com/EbookFoundation/free-programming-books,212254,45883,unknown,📚 Freely available programming books
+realworld,https://github.com/gothinkster/realworld,61711,5652,Shell,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅"
+NostalgiaForInfinity,https://github.com/iterativv/NostalgiaForInfinity,697,169,Python,Trading strategy for the Freqtrade crypto bot
+code_snippets,https://github.com/CoreyMSchafer/code_snippets,8024,15395,Jupyter Notebook,
+CasaOS,https://github.com/IceWhaleTech/CasaOS,1033,32,Go,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system."
+build-your-own-x,https://github.com/danistefanovic/build-your-own-x,122761,11150,unknown,🤓 Build your own (insert technology here)
+free-for-dev,https://github.com/ripienaar/free-for-dev,50915,5495,HTML,"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+the-art-of-command-line,https://github.com/jlevy/the-art-of-command-line,98938,10674,unknown,"Master the command line, in one page"
+tech-interview-handbook,https://github.com/yangshun/tech-interview-handbook,61404,8565,JavaScript,💯 Curated interview preparation materials for busy engineers
+awesome,https://github.com/sindresorhus/awesome,177015,22052,unknown,😎 Awesome lists about all kinds of interesting topics
+EIPs,https://github.com/ethereum/EIPs,7955,2982,Solidity,The Ethereum Improvement Proposal repository
+NUWA,https://github.com/microsoft/NUWA,820,38,unknown,A unified 3D Transformer Pipeline for visual synthesis
+the-book-of-secret-knowledge,https://github.com/trimstray/the-book-of-secret-knowledge,53995,5415,unknown,"A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+v2ray-core,https://github.com/v2fly/v2ray-core,13052,2201,Go,A platform for building proxies to bypass network restrictions.
+coding-interview-university,https://github.com/jwasham/coding-interview-university,198965,53461,unknown,A complete computer science study plan to become a software engineer.
+computer-science,https://github.com/ossu/computer-science,101812,13945,unknown,🎓 Path to a free self-taught education in Computer Science!
+RustPython,https://github.com/RustPython/RustPython,9916,682,Rust,A Python Interpreter written in Rust
+LunarVim,https://github.com/LunarVim/LunarVim,6462,1026,Lua,An IDE layer for Neovim with sane defaults. Completely free and community driven.
+system-design-primer,https://github.com/donnemartin/system-design-primer,151650,28000,Python,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+developer-roadmap,https://github.com/kamranahmedse/developer-roadmap,177211,25424,unknown,Roadmap to becoming a web developer in 2021
+ScottPlot,https://github.com/ScottPlot/ScottPlot,1495,221,C#,Interactive Plotting Library for .NET
+awesome-for-beginners,https://github.com/MunGell/awesome-for-beginners,36745,5338,unknown,A list of awesome beginners-friendly projects.
+qoi,https://github.com/phoboslab/qoi,2149,70,C,"The “Quite OK Image” format for fast, lossless image compression"

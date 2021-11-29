@@ -1,0 +1,25 @@
+Name: freeCodeCamp, Link: https://github.com/freeCodeCamp/freeCodeCamp, TotalStar: 335865, Language: JavaScript, Description: freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+Name: learning_mind_map, Link: https://github.com/0voice/learning_mind_map, TotalStar: 592, Language: unknown, Description: 2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等
+Name: free-programming-books, Link: https://github.com/EbookFoundation/free-programming-books, TotalStar: 212254, Language: unknown, Description: 📚 Freely available programming books
+Name: realworld, Link: https://github.com/gothinkster/realworld, TotalStar: 61711, Language: Shell, Description: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+Name: NostalgiaForInfinity, Link: https://github.com/iterativv/NostalgiaForInfinity, TotalStar: 697, Language: Python, Description: Trading strategy for the Freqtrade crypto bot
+Name: code_snippets, Link: https://github.com/CoreyMSchafer/code_snippets, TotalStar: 8024, Language: Jupyter Notebook, Description: 
+Name: CasaOS, Link: https://github.com/IceWhaleTech/CasaOS, TotalStar: 1033, Language: Go, Description: CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
+Name: build-your-own-x, Link: https://github.com/danistefanovic/build-your-own-x, TotalStar: 122761, Language: unknown, Description: 🤓 Build your own (insert technology here)
+Name: free-for-dev, Link: https://github.com/ripienaar/free-for-dev, TotalStar: 50915, Language: HTML, Description: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+Name: the-art-of-command-line, Link: https://github.com/jlevy/the-art-of-command-line, TotalStar: 98938, Language: unknown, Description: Master the command line, in one page
+Name: tech-interview-handbook, Link: https://github.com/yangshun/tech-interview-handbook, TotalStar: 61404, Language: JavaScript, Description: 💯 Curated interview preparation materials for busy engineers
+Name: awesome, Link: https://github.com/sindresorhus/awesome, TotalStar: 177015, Language: unknown, Description: 😎 Awesome lists about all kinds of interesting topics
+Name: EIPs, Link: https://github.com/ethereum/EIPs, TotalStar: 7955, Language: Solidity, Description: The Ethereum Improvement Proposal repository
+Name: NUWA, Link: https://github.com/microsoft/NUWA, TotalStar: 820, Language: unknown, Description: A unified 3D Transformer Pipeline for visual synthesis
+Name: the-book-of-secret-knowledge, Link: https://github.com/trimstray/the-book-of-secret-knowledge, TotalStar: 53995, Language: unknown, Description: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+Name: v2ray-core, Link: https://github.com/v2fly/v2ray-core, TotalStar: 13052, Language: Go, Description: A platform for building proxies to bypass network restrictions.
+Name: coding-interview-university, Link: https://github.com/jwasham/coding-interview-university, TotalStar: 198965, Language: unknown, Description: A complete computer science study plan to become a software engineer.
+Name: computer-science, Link: https://github.com/ossu/computer-science, TotalStar: 101812, Language: unknown, Description: 🎓 Path to a free self-taught education in Computer Science!
+Name: RustPython, Link: https://github.com/RustPython/RustPython, TotalStar: 9916, Language: Rust, Description: A Python Interpreter written in Rust
+Name: LunarVim, Link: https://github.com/LunarVim/LunarVim, TotalStar: 6462, Language: Lua, Description: An IDE layer for Neovim with sane defaults. Completely free and community driven.
+Name: system-design-primer, Link: https://github.com/donnemartin/system-design-primer, TotalStar: 151650, Language: Python, Description: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+Name: developer-roadmap, Link: https://github.com/kamranahmedse/developer-roadmap, TotalStar: 177211, Language: unknown, Description: Roadmap to becoming a web developer in 2021
+Name: ScottPlot, Link: https://github.com/ScottPlot/ScottPlot, TotalStar: 1495, Language: C#, Description: Interactive Plotting Library for .NET
+Name: awesome-for-beginners, Link: https://github.com/MunGell/awesome-for-beginners, TotalStar: 36745, Language: unknown, Description: A list of awesome beginners-friendly projects.
+Name: qoi, Link: https://github.com/phoboslab/qoi, TotalStar: 2149, Language: C, Description: The “Quite OK Image” format for fast, lossless image compression
