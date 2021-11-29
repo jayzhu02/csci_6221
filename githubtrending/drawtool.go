@@ -85,7 +85,7 @@ func DrawWordCloud(filename string){
 	WordCloud := charts.NewWordCloud()
 
 	WordCloud.SetGlobalOptions(charts.WithTitleOpts(opts.Title{Title: "WordCloud"}),
-		charts.WithInitializationOpts(opts.Initialization{Width: "500px", Height: "500px"}),
+		charts.WithInitializationOpts(opts.Initialization{Width: "800px", Height: "600px"}),
 	)
 
 	WordCloud.AddSeries("wordcloud", wordCloudDataList)

@@ -1,7 +1,7 @@
 [
  {
   "name": "freeCodeCamp",
-  "total_star": "335865",
+  "total_star": "335870",
   "fork": "27368",
   "link": "https://github.com/freeCodeCamp/freeCodeCamp",
   "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
@@ -9,7 +9,7 @@
  },
  {
   "name": "learning_mind_map",
-  "total_star": "592",
+  "total_star": "597",
   "fork": "70",
   "link": "https://github.com/0voice/learning_mind_map",
   "description": "2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等",
@@ -17,7 +17,7 @@
  },
  {
   "name": "free-programming-books",
-  "total_star": "212254",
+  "total_star": "212255",
   "fork": "45883",
   "link": "https://github.com/EbookFoundation/free-programming-books",
   "description": "📚 Freely available programming books",
@@ -33,7 +33,7 @@
  },
  {
   "name": "NostalgiaForInfinity",
-  "total_star": "697",
+  "total_star": "698",
   "fork": "169",
   "link": "https://github.com/iterativv/NostalgiaForInfinity",
   "description": "Trading strategy for the Freqtrade crypto bot",
@@ -41,7 +41,7 @@
  },
  {
   "name": "code_snippets",
-  "total_star": "8024",
+  "total_star": "8025",
   "fork": "15395",
   "link": "https://github.com/CoreyMSchafer/code_snippets",
   "description": "",
@@ -49,7 +49,7 @@
  },
  {
   "name": "CasaOS",
-  "total_star": "1033",
+  "total_star": "1040",
   "fork": "32",
   "link": "https://github.com/IceWhaleTech/CasaOS",
   "description": "CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",
@@ -57,24 +57,24 @@
  },
  {
   "name": "build-your-own-x",
-  "total_star": "122761",
-  "fork": "11150",
+  "total_star": "122767",
+  "fork": "11151",
   "link": "https://github.com/danistefanovic/build-your-own-x",
   "description": "🤓 Build your own (insert technology here)",
   "language": "unknown"
  },
  {
   "name": "free-for-dev",
-  "total_star": "50915",
-  "fork": "5495",
+  "total_star": "50918",
+  "fork": "5496",
   "link": "https://github.com/ripienaar/free-for-dev",
   "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
   "language": "HTML"
  },
  {
   "name": "the-art-of-command-line",
-  "total_star": "98938",
-  "fork": "10674",
+  "total_star": "98941",
+  "fork": "10675",
   "link": "https://github.com/jlevy/the-art-of-command-line",
   "description": "Master the command line, in one page",
   "language": "unknown"
@@ -89,7 +89,7 @@
  },
  {
   "name": "awesome",
-  "total_star": "177015",
+  "total_star": "177022",
   "fork": "22052",
   "link": "https://github.com/sindresorhus/awesome",
   "description": "😎 Awesome lists about all kinds of interesting topics",
@@ -105,7 +105,7 @@
  },
  {
   "name": "NUWA",
-  "total_star": "820",
+  "total_star": "824",
   "fork": "38",
   "link": "https://github.com/microsoft/NUWA",
   "description": "A unified 3D Transformer Pipeline for visual synthesis",
@@ -113,7 +113,7 @@
  },
  {
   "name": "the-book-of-secret-knowledge",
-  "total_star": "53995",
+  "total_star": "54002",
   "fork": "5415",
   "link": "https://github.com/trimstray/the-book-of-secret-knowledge",
   "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
@@ -121,7 +121,7 @@
  },
  {
   "name": "v2ray-core",
-  "total_star": "13052",
+  "total_star": "13054",
   "fork": "2201",
   "link": "https://github.com/v2fly/v2ray-core",
   "description": "A platform for building proxies to bypass network restrictions.",
@@ -129,7 +129,7 @@
  },
  {
   "name": "coding-interview-university",
-  "total_star": "198965",
+  "total_star": "198969",
   "fork": "53461",
   "link": "https://github.com/jwasham/coding-interview-university",
   "description": "A complete computer science study plan to become a software engineer.",
@@ -137,7 +137,7 @@
  },
  {
   "name": "computer-science",
-  "total_star": "101812",
+  "total_star": "101814",
   "fork": "13945",
   "link": "https://github.com/ossu/computer-science",
   "description": "🎓 Path to a free self-taught education in Computer Science!",
@@ -145,7 +145,7 @@
  },
  {
   "name": "RustPython",
-  "total_star": "9916",
+  "total_star": "9919",
   "fork": "682",
   "link": "https://github.com/RustPython/RustPython",
   "description": "A Python Interpreter written in Rust",
@@ -153,7 +153,7 @@
  },
  {
   "name": "LunarVim",
-  "total_star": "6462",
+  "total_star": "6465",
   "fork": "1026",
   "link": "https://github.com/LunarVim/LunarVim",
   "description": "An IDE layer for Neovim with sane defaults. Completely free and community driven.",
@@ -161,7 +161,7 @@
  },
  {
   "name": "system-design-primer",
-  "total_star": "151650",
+  "total_star": "151651",
   "fork": "28000",
   "link": "https://github.com/donnemartin/system-design-primer",
   "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
@@ -169,7 +169,7 @@
  },
  {
   "name": "developer-roadmap",
-  "total_star": "177211",
+  "total_star": "177214",
   "fork": "25424",
   "link": "https://github.com/kamranahmedse/developer-roadmap",
   "description": "Roadmap to becoming a web developer in 2021",
@@ -177,7 +177,7 @@
  },
  {
   "name": "ScottPlot",
-  "total_star": "1495",
+  "total_star": "1501",
   "fork": "221",
   "link": "https://github.com/ScottPlot/ScottPlot",
   "description": "Interactive Plotting Library for .NET",
@@ -185,7 +185,7 @@
  },
  {
   "name": "awesome-for-beginners",
-  "total_star": "36745",
+  "total_star": "36749",
   "fork": "5338",
   "link": "https://github.com/MunGell/awesome-for-beginners",
   "description": "A list of awesome beginners-friendly projects.",
@@ -193,7 +193,7 @@
  },
  {
   "name": "qoi",
-  "total_star": "2149",
+  "total_star": "2150",
   "fork": "70",
   "link": "https://github.com/phoboslab/qoi",
   "description": "The “Quite OK Image” format for fast, lossless image compression",
