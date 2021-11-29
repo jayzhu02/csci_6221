@@ -25,19 +25,6 @@ func main() {
 		c.HTML(200, "login.html", "github dashboard")
 	})
 
-	//r.POST("/", func(c *gin.Context) {
-	//	c.HTML(200, "login.html", "github dashboard")
-	//})
-
-	//r.GET("index.html", func(c *gin.Context) {
-	//	c.HTML(200, "/static/index.html", "github dashboard")
-	//})
-
-	r.GET("/aaa", func(c *gin.Context) {
-
-		c.Request.URL.Path ="index.html"
-		r.HandleContext(c)
-	})
 	r.Run(":8080")
 
 
